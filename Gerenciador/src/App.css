@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+}
+
+body{
+
+  background-color: blue;
+
+}
+
+.box{
+
+  width: 50vw;
+  height: 50vh;
+background-color: rgb(61, 19, 100);
+
+}
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.1;
+}
+
