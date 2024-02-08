@@ -1,0 +1,10 @@
+button{
+background-color: transparent;
+border-radius: 10%;
+position: relative;
+border: 1px solid black;
+left: 1vh;
+width: 3vw;
+height: 5vh;
+}
+
